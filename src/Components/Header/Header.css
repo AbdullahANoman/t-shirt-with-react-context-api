@@ -1,0 +1,12 @@
+.header-container a{
+    margin-right: 50px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+.header-container a:hover{
+    color: blue;
+}
+.header-container{
+    margin-left: 700px;
+}
